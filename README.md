@@ -1,2 +1,3 @@
 # RabbitMQ_BS
-crawl Chinese news from website and push the data to RabbitMQ,
+Crawling Chinese news from website: https://news.cnblogs.com/
+Pushing the data to RabbitMQ, then take the data from RabbitMQ and save it.
