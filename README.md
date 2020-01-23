@@ -11,7 +11,7 @@ Port Check: <br>
 5672 is listening<br>
 15672 is for web app<br>
 25672 is for clustering<br>
-![Image description](https://github.com/PythonNewLearner/RabbitMQ_BS/blob/master/rabbitmq_status.png)
+![Image description](https://github.com/PythonNewLearner/RabbitMQ_BS/blob/master/portal_check.png)
 
 Input:<br>
 IP: 192.168.126.129<br>
