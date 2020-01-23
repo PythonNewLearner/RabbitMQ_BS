@@ -26,3 +26,6 @@ Queue names: urls,htmls, outputs<br>
 Running pragramme: RabbitMQ received data
 ![Image description](https://github.com/PythonNewLearner/RabbitMQ_BS/blob/master/rabbitmq_running.png)
 
+
+Consumer received the data and saved it in html file:
+![Image description](https://github.com/PythonNewLearner/RabbitMQ_BS/blob/master/pycharm_datashow.png)
