@@ -24,5 +24,5 @@ Queue names: urls,htmls, outputs<br>
 
 
 Running pragramme: RabbitMQ received data
-![Image description](https://github.com/PythonNewLearner/RabbitMQ_BS/blob/master/rabbitmq_status.png)
+![Image description](https://github.com/PythonNewLearner/RabbitMQ_BS/blob/master/rabbitmq_running.png)
 
