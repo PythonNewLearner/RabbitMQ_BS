@@ -20,4 +20,9 @@ Virtual host: test1<br>
 User name: baichen111<br>
 Password: 12345<br>
 Exchange name: news<br>
-Queue name: urls,htmls, outputs<br>
+Queue names: urls,htmls, outputs<br>
+
+
+Running pragramme: RabbitMQ received data
+![Image description](https://github.com/PythonNewLearner/RabbitMQ_BS/blob/master/rabbitmq_status.png)
+
